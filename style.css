@@ -103,8 +103,14 @@ h1 {
 
 a, a:visited {
     color: inherit;
-
 }
+
+/*pseudo-class selectors*/
+a:hover{
+  color: #00000;
+  font-weight: bold;
+  text-decoration: none;
+    
 
 
 #border1 {
